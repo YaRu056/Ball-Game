@@ -1,5 +1,5 @@
 
-# Ball Game
+# Ball Game (3D)
 
 >## 玩法介紹
 
@@ -9,6 +9,18 @@
     D:向右走
     遊戲目標:
     操控球去吃小方塊，吃到超大方塊為獲勝!
+
+>## 腳本
+
+    玩家:PlayerController
+    音效:SoundManager
+    相機:CameraControlller
+    海洋:sea
+    方塊旋轉:Rotate
+    切換關卡:StartMenu
+    
+
+>## 遊戲畫面
 
 ![image](https://user-images.githubusercontent.com/82867224/137070829-09fcbb75-a2f6-4cce-b045-38a33153758d.png)
 
